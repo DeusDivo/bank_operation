@@ -36,7 +36,3 @@ uvicorn main:app --reload
 - **Pydantic v2** — валидация данных
 - **Uvicorn** — ASGI-сервер
 - **Python 3.10+**
-
-## Лицензия
-
-MIT
